@@ -1,0 +1,13 @@
+streamlit>=1.22.0
+numpy>=1.23.5
+Pillow>=9.4.0
+scikit-image>=0.19.3
+scikit-learn>=1.2.0
+tensorflow>=2.11.0
+matplotlib>=3.6.2
+streamlit
+numpy
+Pillow
+scikit-image
+matplotlib
+opencv-python
